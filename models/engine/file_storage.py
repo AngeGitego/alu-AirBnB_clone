@@ -1,14 +1,5 @@
-#!/usr/bin/python3
-"""Defines the FileStorage class."""
-import json
-from models.base_model import BaseModel
-from models.user import User
-from models.state import State
-from models.city import City
-from models.place import Place
-from models.amenity import Amenity
-from models.review import Review
 
+<<<<<<< HEAD
 
 class FileStorage:
     """Represent an abstracted storage engine.
@@ -76,3 +67,5 @@ class FileStorage:
         except FileNotFoundError:
             return
 >>>>>>> 036019003572e6ba132f1c840ba21fcc7a07be1a
+=======
+>>>>>>> 80ff50884e20f3a0337c3f218dc9f5f886c38cb9
