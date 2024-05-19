@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The AirBnB Clone Project
 
 ## Project Description
@@ -169,3 +170,6 @@ The recognizable commands by the interpreter are the following:
 ## Author
 Lina Iratwe
 Ange Kevine Gitego Rugema
+=======
+Airbnb Project
+>>>>>>> 9c15d210529583cfd1fbcd5823cd2006914994c8
