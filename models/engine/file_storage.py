@@ -75,9 +75,12 @@ class FileStorage:
                         FileStorage.__objects[key] = instance
                 except Exception:
                     pass
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
 
 
 >>>>>>> 9c15d210529583cfd1fbcd5823cd2006914994c8
+=======
+>>>>>>> 1bc65236ee35c24e081c3205a46c28a1714e985e
